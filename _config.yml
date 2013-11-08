@@ -8,11 +8,10 @@ url:              http://www.ChuckPinkert.com
 owner:
   name:           Chuck Pinkert
   avatar:         avatar.jpg
-  bio:            "Just a developer out trying to have a good time. Making applications for mobile telephones."
+  bio:            "Just a developer having a good time. Making applications for mobile telephones."
   email:          Chuck@ChuckPinkert.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        http://www.twitter.com/ChuckPinkert
-  linkedin:       
+  twitter:        ChuckPinkert
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
