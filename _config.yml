@@ -1,12 +1,12 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Chuck
+description:      Developer
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://www.ChuckPinkert.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Chuck Pinkert
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
@@ -16,9 +16,7 @@ owner:
   github:         
   stackexchange:  
   linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  instagram:          
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   
 
